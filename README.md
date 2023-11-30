@@ -13,6 +13,10 @@ I'm a PhD student in Neuroscience at the Italian Institute of Technology (CTNSC@
 [![mne-python](https://img.shields.io/badge/-MNE-66B4D3?logo=python&logoColor=white)]()
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)]()
 
+## Some projects:
+- [ArticEncod_difficulty](https://github.com/AlessandroCorsini/articEncod_difficulty)
+- [NMA_2023_MotorImagery](https://github.com/AlessandroCorsini/NMA_2023_MotorImagery)
+
 ## Reach to me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/alessandro-corsini-8b1887158)
 [![X](https://img.shields.io/badge/-X-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/Alessan86081796)
