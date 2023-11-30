@@ -16,7 +16,7 @@ I'm a PhD student in Neuroscience at the Italian Institute of Technology (CTNSC@
 
 ## Reach to me:
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/alessandro-corsini-8b1887158)
-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+- [![X](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/Alessan86081796)
 
 ## 💬 Let's connect
 Feel free to reach out for collaborations or just to say hi! I'm always open to interesting conversations.
