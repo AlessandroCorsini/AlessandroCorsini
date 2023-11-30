@@ -1,4 +1,4 @@
-# I'm Alessandro Corsini MSc in Computer Science and Engineering and PhD student in Neuroscience
+# MSc in Computer Science and Engineering and PhD student in Neuroscience
 
 ## About Me
 I'm a PhD student in Neuroscience at the Italian Institute of Technology (CTNSC@IIT). I study the role of motor processes in speech perception.
