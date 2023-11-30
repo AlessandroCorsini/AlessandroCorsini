@@ -15,6 +15,7 @@ I'm a PhD student in Neuroscience at the Italian Institute of Technology (CTNSC@
 
 ## Some projects:
 - [ArticEncod_difficulty](https://github.com/AlessandroCorsini/articEncod_difficulty)
+- [PyPID_mvn](https://github.com/AlessandroCorsini/PyPID_mvn)
 - [NMA_2023_MotorImagery](https://github.com/AlessandroCorsini/NMA_2023_MotorImagery)
 
 ## Reach to me
