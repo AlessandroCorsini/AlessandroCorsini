@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @AlessandroCorsini, PhD student in Translational Neuroscience and Neurotechnology at Center of Translational Neuroscience 
-for Speech and Communication (CTNSC@Unife). I am a Computer Engineer 💻, Polytechnic University of Milan (Polimi) and Technische Universität Berlin (TUB).
-- 👀 I’m interested in speech Brain-Computer Interfacing (sBCI), Machine Learning for Speech recognition, Neurophisiology of Speech Perception and Production.
-- 🌱 I’m currently studying the role of motor reconstruction of the invisible articulators of the vocal tract during speech listening.
-- 📫 Contact me if you wish to collaborate on these topics: alessandro.corsini@edu.unife.it
+# I'm Alessandro Corsini MSc in Computer Science and Engineering and PhD student in Neuroscience
 
-<!---
-AlessandroCorsini/AlessandroCorsini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm a PhD student in Neuroscience at the Italian Institute of Technology (CTNSC@IIT). I study the role of motor processes in speech perception.
+
+## Programming Languages:
+- **Programming Languages:** 
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
+- **Frameworks & Libraries:** 
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+- **Tools & Technologies:** 
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+
+## Reach to me:
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/alessandro-corsini-8b1887158)
+- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+
+## 💬 Let's connect
+Feel free to reach out for collaborations or just to say hi! I'm always open to interesting conversations.
+
